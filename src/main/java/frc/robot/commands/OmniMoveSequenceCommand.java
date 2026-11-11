@@ -200,3 +200,4 @@ public class OmniMoveSequenceCommand extends CommandBase {
         return currentState == State.FINISHED;
     }
 }
+
